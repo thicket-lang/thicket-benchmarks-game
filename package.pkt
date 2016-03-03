@@ -1,0 +1,19 @@
+{ "definition":
+    {
+        "name": "Benchmarks",
+        "version": "1.0",
+        "description":"The Computer Language Benchmarks Game package",
+        "developers": [
+            {
+                "name": "D. Plaindoux",
+                "mail": "d.plaindoux@free.fr"
+            }
+        ],
+        "modules": [
+	    "Benchmarks.BinaryTree"
+        ],
+        "requires":[
+            { "Core": "1.0" }
+        ]
+    }
+}
