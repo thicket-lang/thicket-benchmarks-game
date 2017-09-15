@@ -1,6 +1,6 @@
 # Benchmarks Library
 
-An omplementation of programs given in "The Computer Language Benchmarks Game"
+An implementation of programs given in "The Computer Language Benchmarks Game"
 
 ## License
 
